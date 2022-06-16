@@ -18,3 +18,14 @@
   <img src="https://komarev.com/ghpvc/?username=ValeryiaSharova&style=flat-square&color=blue" alt="counter"/>
 </div>
 <hr/>
+:woman_technologist: About Me :
+
+- :mag_right: I’m looking for a frontend developer job.
+
+- :mortar_board: I have 3 years learning experience in JS.
+
+- :woman_teacher: I have been working like a teacher for 2 years.
+
+- :tea: In my free time I like to play board games, walk in forest and take a tea ceremony.
+
+- :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-Aller_Fl-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Aller_Fl)
