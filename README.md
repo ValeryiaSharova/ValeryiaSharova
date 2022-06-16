@@ -30,7 +30,7 @@
 
 - :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-Aller_Fl-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Aller_Fl)
 <hr/>
-:hammer_and_wrench: Languages and Tools:
+:hammer_and_wrench: Languages and Tools :
 
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -47,3 +47,11 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
 </div>
 <hr/>
+:fire: My Stats :
+<div>
+ <br/>
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ValeryiaSharova&layout=compact&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ValeryiaSharova&theme=buefy&background=FFFFFF)](https://git.io/streak-stats)
+ </div>
