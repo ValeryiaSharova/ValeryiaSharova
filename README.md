@@ -22,7 +22,7 @@
 
 - :mag_right: I’m looking for a frontend developer job.
 
-- :mortar_board: I have 3+ years learning experience in JS. And 4 month working experience.
+- :mortar_board: I have 3+ years experience in JS (React / Redux / TypeScript)
 
 - :woman_teacher: I had worked as teacher for 2 years. Now I am working as a frontend developer.
 
